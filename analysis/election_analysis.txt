@@ -1,4 +1,5 @@
+
+Election Results
 -------------------------
-Arapahoe
-Denver
-Jefferson
+Total Votes: 369,711
+-------------------------
